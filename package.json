@@ -1,0 +1,13 @@
+{
+	"name": "assignments-micro-course-testing-front-end",
+	"version": "1.0.0",
+	"description": "erik",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "define tu script"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
